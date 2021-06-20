@@ -4,7 +4,7 @@
 
 Instead of adding the files one and one by copy pasting. You could use a hotkey to add the latest URL copied as a line in the download.txt
 
-Example command using i3 config: `bindsym $mod+Shift+d exec `xclip -o >> ~/download.txt` && echo $'\n' >> ~/download.txt`
+Example command using i3 config: ``bindsym $mod+Shift+d exec `xclip -o >> ~/download.txt` && echo $'\n' >> ~/download.txt``
 
 And then initialising the script with an alias in your favourite terminal.
 
