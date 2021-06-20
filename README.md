@@ -14,7 +14,7 @@ And then initialising the script.
 
 Optionally you could create an alias.
 
-Example alias: `alias cdlt='alias cdlt='~/download.sh'`
+Example alias: `alias cdlt='~/download.sh'`
 
 ## Usage with a server.
 
